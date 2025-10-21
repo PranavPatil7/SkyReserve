@@ -7,9 +7,6 @@
 
 > 🚀 **A practical and imaginary microservices for implementing an infrastructure for up and running distributed system with the latest technology and architecture like Vertical Slice Architecture, Event Driven Architecture, CQRS, DDD, gRpc, MongoDB, RabbitMq in Java Spring Boot.**
 
-**You can find `.Net` ported of this project in this link:**
-🔗 [booking-microservices](https://github.com/meysamhadeli/booking-microservices)
-
 <div>
   <a href='https://codespaces.new/meysamhadeli/booking-microservices-java-spring-boot?quickstart=1'><img alt='Open in GitHub Codespaces' src='https://github.com/codespaces/badge.svg'></a>
 </div>
@@ -177,25 +174,5 @@ Each microservice provides `API documentation` and navigate to `/swagger-ui/inde
 
 As part of API testing, I created the [booking.rest](./booking.rest) file which can be run with the [REST Client](https://github.com/Huachao/vscode-restclient) `VSCode plugin`.
 
-# Support
 
-If you like my work, feel free to:
-
-- ⭐ this repository. And we will be happy together :)
-
-Thanks a bunch for supporting me!
-
-## Contribution
-
-Thanks to all [contributors](https://github.com/meysamhadeli/booking-microservices-java-spring-boot/graphs/contributors), you're awesome and this wouldn't be possible without you! The goal is to build a categorized, community-driven collection of very well-known resources.
-
-Please follow this [contribution guideline](./CONTRIBUTION.md) to submit a pull request or create the issue.
-
-## Project References & Credits
-
-- [https://github.com/jbogard/ContosoUniversityDotNetCore-Pages](https://github.com/jbogard/ContosoUniversityDotNetCore-Pages)
-- [https://github.com/kgrzybek/modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd)
-- [https://github.com/oskardudycz/cqrs-is-simpler-with-java](https://github.com/oskardudycz/cqrs-is-simpler-with-java)
-
-## License
 This project is made available under the MIT license. See [LICENSE](https://github.com/meysamhadeli/booking-microservices-java-spring-boot/blob/main/LICENSE) for details.
